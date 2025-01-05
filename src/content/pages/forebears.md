@@ -5,9 +5,11 @@ description: "A Blazor web application to privately present your family history 
 
 **Site:** https://forebears.azurewebsites.net
 
+![Family group page](https://www.owen.nz/forebears-screen1.png)
+
 ## Summary
 
-During my family history research I began to get frustrated that there wasn't a cloud-based application that allowed me to privately share a family tree. I was uncovering some great stories about my ancestors and wanted to share it with my family - but not the world!
+During my family history research I began to get frustrated that there wasn't a cloud-based application that allowed me to privately and easily share a family tree - without requiring that my family members sign up for accounts (looking at you). I was uncovering some great stories about my ancestors and wanted to share it with my family - but not the world!
 
 I defined my requirements and decided to build something myself:
 - Start from scratch or import a GEDCOM file
@@ -31,6 +33,5 @@ I'm chipping away at it, but still a lot to do.
 - Auth0
 - NLog
 
-![Family group page](https://www.owen.nz/forebears-screen1.png)
 ![Individual page](https://www.owen.nz/forebears-screen2.png)
 ![Individual page](https://www.owen.nz/forebears-screen3.png)
