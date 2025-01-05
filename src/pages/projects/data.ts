@@ -25,7 +25,7 @@ export const projectData: ProjectData = [
       {
         text: 'Blog (Mk II)',
         description: 'AstroJS: the next new shiny thing 😅',
-        image: 'blog2.jpg',
+        image: 'https://www.owen.nz/blog2.jpg',
         href: '/blog2',
       },
     ],
