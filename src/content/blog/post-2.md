@@ -9,14 +9,14 @@ duration: 3min
 
 UPDATE (5/1/25): I obviously wrote this before WFH became a big deal and now much of this is common knowledge. However there are still one or two things that are good to keep in mind even today.
 
-![Gidday](/roo.jpg)
+![Gidday](https://www.owen.nz/roo.jpg)
 
 Midway through 2015 I picked up my life in NZ and moved to Adelaide, Australia. Fortunately, the fine folk at Trade Me allowed me to continue to work for them remotely and I carried on with our migration to Elasticsearch as a member of the Findability squad.
 
 ## Expectation
 All in all, I thought it would be a bit like this:
 
-![It was not.](/tech-beach.jpg)
+![It was not.](https://www.owen.nz/tech-beach.jpg)
 
 It was not.
 

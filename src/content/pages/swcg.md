@@ -11,4 +11,4 @@ A foray back into WYSIWYG site builders after 10 years or so. A lot has changed 
 
 Compared Wix, Weebly and Strikingly for functionality, plugin support, ease of use and price. Selected Wix because they had a 50% promo at the time, my teammates had experience in using the Wix editor already and it had Instagram and EventBrite plugins which is really all we needed.
 
-![Seaford Community Garden](/scg_screenshot.png)
+![Seaford Community Garden](https://www.owen.nz/scg_screenshot.png)

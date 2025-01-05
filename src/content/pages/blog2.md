@@ -17,4 +17,4 @@ Not only is it framework agnostic and only loads the minimum required JS, BUT th
 
 This also opened up the opportunity for me to host it directly on Github Pages instead of an Azure Static Web App, saving me precious beer money.
 
-![Blog](/blog2.png)
+![Blog](https://www.owen.nz/blog2.png)

@@ -7,7 +7,7 @@ tag: genealogy
 duration: 2min
 ---
 
-![Gramps Web](/gramps_screenshotfull.png)
+![Gramps Web](https://www.owen.nz/gramps_screenshotfull.png)
 
 ## Summary
 
@@ -30,6 +30,6 @@ The most well-known open-source genealogy software is the [Gramps Project](https
 
 I've tested it out by spinning up a DigitalOcean droplet running the API and Web app in docker containers.
 
-![Gramps Web](/grampsweb_screenshot.png)
+![Gramps Web](https://www.owen.nz/grampsweb_screenshot.png)
 
 So that's where I'm at so far. This is going to be a long-term project so I'll be back to update my progress.

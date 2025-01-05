@@ -31,6 +31,6 @@ I'm chipping away at it, but still a lot to do.
 - Auth0
 - NLog
 
-![Family group page](/forebears-screen1.png)
-![Individual page](/forebears-screen2.png)
-![Individual page](/forebears-screen3.png)
+![Family group page](https://www.owen.nz/forebears-screen1.png)
+![Individual page](https://www.owen.nz/forebears-screen2.png)
+![Individual page](https://www.owen.nz/forebears-screen3.png)
