@@ -2,87 +2,46 @@ import type { ProjectData } from '@/types'
 
 export const projectData: ProjectData = [
   {
-    title: 'Projects Group',
+    title: 'Personal projects',
     projects: [
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
+        text: 'Forebears',
+        description: 'A Blazor web application to privately share your family tree.',
+        image: 'forebears.jpg',
+        href: '/forebears',
       },
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
+        text: 'Instant Flyers',
+        description: 'Create ready-made flyers for your business using your Etsy profile.',
+        image: 'instantflyers.jpg',
+        href: '/instant-flyers',
+      },
+      {
+        text: 'Blog (Mk I)',
+        description: 'My first foray into JAMstack sites using Hugo.',
+        image: 'blog1.png',
+        href: '/blog1',
+      },
+      {
+        text: 'Blog (Mk II)',
+        description: 'AstroJS: the next new shiny thing 😅',
+        image: 'blog2.jpg',
+        href: '/blog2',
       },
     ],
   },
   {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
-  },
-  {
-    title: 'Project Name',
-    projects: [],
-  },
-  {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
-  },
-  {
-    title: 'Projects Group',
-    projects: [
-      {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
-        icon: 'i-carbon-campsite',
-        href: '/',
-      },
-    ],
+    title: 'Volunteering',
+    projects: [{
+      text: 'Seaford Wetlands Community Garden',
+      description: 'Online presence for the Seaford Community Garden & Urban Biodiversity Project.',
+      image: 'scglogo.png',
+      href: '/swcg',
+    }, {
+      text: 'Carnelian Craft',
+      description: 'Online presence for the Carnelian Craft business.',
+      image: 'cclogo.png',
+      href: '/carnelian-craft',
+    }],
   },
 ]

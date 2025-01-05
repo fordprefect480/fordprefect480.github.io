@@ -1,59 +1,38 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
-  image: {
-    src: '/hero.jpg',
-    alt: 'Website Main Image',
-  },
-  email: 'kevinwong865@gmail.com',
+  author: 'Owen Symes',
+  title: 'Owen Symes',
+  subtitle: 'Full-stack .NET developer',
+  description: 'Full-stack .NET developer',
+  email: 'owen.symes@gmail.com',
   socialLinks: [
     {
+      text: 'Bluesky',
+      href: 'https://bsky.app/profile/owen.nz',
+      icon: 'simple-icons-bluesky',
+      header: 'i-simple-icons-bluesky',
+    },
+    {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/fordprefect480',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
     {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
-    {
-      text: 'Linkedin',
-      href: '',
-      icon: 'i-simple-icons-linkedin',
-    },
-    {
       text: 'Instagram',
-      href: '',
+      href: 'https://instagram.com/fordprefect480',
       icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
+      header: 'i-simple-icons-instagram',
     },
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: '/favicon.ico',
       alt: 'Logo Image',
     },
     navLinks: [
       {
         text: 'Blog',
         href: '/blog',
-      },
-      {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
       },
       {
         text: 'Projects',
@@ -67,35 +46,10 @@ export const siteConfig = {
         text: 'Blog',
         href: '/blog',
       },
-      {
-        text: 'Notes',
-        href: '/blog/notes',
-      },
-      {
-        text: 'Talks',
-        href: '/blog/talks',
-      },
     ],
   },
   footer: {
-    navLinks: [
-      {
-        text: 'Posts Props',
-        href: '/posts-props',
-      },
-      {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
-      },
-    ],
+    navLinks: [],
   },
 }
 
