@@ -31,6 +31,11 @@ const { Content } = await page.render()
         </p>
       )
     }
-    <Content />
+    {
+      page.data.draft === true && (
+        <p>I'm still working on this page. Stay tuned.</p>
+      )
+    }
+    {!page.data.draft && <Content />}
   </article>
 </BaseLayout>

@@ -4,6 +4,7 @@ const pages = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
+    draft: z.boolean().default(false).optional(),
     image: z
       .object({
         src: z.string(),
