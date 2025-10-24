@@ -38,6 +38,10 @@ export const siteConfig = {
         text: 'Projects',
         href: '/projects',
       },
+      {
+        text: 'Resume',
+        href: 'https://owen-symes.notion.site/Owen-Symes-23b8cbf25c2345a9ba1c10128186e999'
+      }
     ],
   },
   page: {
