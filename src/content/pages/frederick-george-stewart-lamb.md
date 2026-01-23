@@ -30,7 +30,7 @@ In November 1941 Stewart took part in the battle for the Sidi Rezegh escarpment,
 <iframe
 	src="https://uploads.knightlab.com/storymapjs/aa937d5acadffbb54fe57314bdbc125b/fgs-lamb-ww2-timeline/index.html"
 	class="wide-iframe"
-	height="800"
+	height="900"
 	allowfullscreen
 ></iframe>
 
