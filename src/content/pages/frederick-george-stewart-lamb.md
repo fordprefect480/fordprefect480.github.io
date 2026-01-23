@@ -1,7 +1,7 @@
 ---
 title: "Frederick George Stewart Lamb"
 date: 2026-01-23T20:58:08+10:30
-draft: true
+draft: false
 description: "Stewart's story"
 tags: ["genealogy", "family history", "research"]
 ---
