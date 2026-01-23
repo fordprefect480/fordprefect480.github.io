@@ -8,6 +8,12 @@ tags: ["genealogy", "family history", "research"]
 
 I've been researching my family history since 2022 and I love it. It's a fun combination of data collection, mystery-solving and storytelling, amplified by the fact that it is all, ultimately, deeply personal. The data collection side of it in particular sates my OCD tendencies by demanding the creation of information hierarchies, tagging systems, folder structures and file naming conventions. All good stuff.
 
+### Grand-uncles
+
+[Frederick George Stewart Lamb](/frederick-george-stewart-lamb)
+
+<span style='color: grey'>Allan Judd Lamb</span> //todo
+
 ### Great-grandfathers
 
 [Owen Wilfred Symes](/owen-wilfred-symes)
